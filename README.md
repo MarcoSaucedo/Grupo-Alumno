@@ -1,5 +1,5 @@
-#Group/Student
+# Group/Student
 
-##Diagrama
+## Diagrama
 
 ![Diagrama](Diagrama Clases.png)
