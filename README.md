@@ -1,1 +1,1 @@
-![El diagrama esta aqui](Diagrama Clases.png)
+![El diagrama](Diagrama Clases.png)
