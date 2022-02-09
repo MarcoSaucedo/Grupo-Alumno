@@ -1,4 +1,4 @@
-# Group/Student
+# Group-Student
 
 ## Diagrama
 
