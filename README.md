@@ -1,1 +1,1 @@
-![holiwis](Diagrama Clases.png)
+![El diagrama esta aqui](Diagrama Clases.png)
